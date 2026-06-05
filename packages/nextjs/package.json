@@ -27,7 +27,7 @@
     "burner-connector": "0.0.20",
     "daisyui": "^5.5.19",
     "kubo-rpc-client": "^6.1.0",
-    "next": "^16.2.4",
+    "next": "^16.2.6",
     "next-nprogress-bar": "^2.4.7",
     "next-themes": "^0.4.6",
     "qrcode.react": "^4.2.0",
@@ -50,12 +50,12 @@
     "eslint-config-next": "^16.2.4",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.5.5",
-    "postcss": "^8.5.10",
+    "postcss": "^8.5.11",
     "prettier": "^3.8.3",
     "tailwindcss": "^4.2.4",
     "type-fest": "^5.6.0",
     "typescript": "^5.8.2",
-    "vercel": "~52.0.0"
+    "vercel": "~52.2.0"
   },
   "packageManager": "yarn@4.13.0"
 }
